@@ -69,12 +69,14 @@ Connected to: ('127.0.0.1', 54321)
 Enter file name to send: sample.txt
 File sent successfully
 ```
+<img width="599" height="109" alt="image" src="https://github.com/user-attachments/assets/fe553292-6045-4fbf-95c2-3270d1a936a4" />
 
 ### Client Side
 ```text
 Enter name to save file: received.txt
 File received successfully
 ```
+<img width="579" height="64" alt="image" src="https://github.com/user-attachments/assets/273a9233-4c5f-429b-a524-66e75e171fb9" />
 
 ### File Content
 ```text
