@@ -82,6 +82,11 @@ File received successfully
 ```text
 Hello Python Socket Programming
 ```
+### sample.txt
+<img width="739" height="199" alt="image" src="https://github.com/user-attachments/assets/0abf6676-1549-4d28-a0ca-e142ba05a3af" />
+
+### received.txt
+<img width="615" height="150" alt="image" src="https://github.com/user-attachments/assets/2e4ec3c5-aaca-4d9c-80c0-93742028ae78" />
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Socket Links was successfully created and executed.
